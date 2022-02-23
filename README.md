@@ -6,7 +6,9 @@
 
 
 
-![Το παιχνίδι (camera ready)](https://github.com/diogenisAl/pyGame/blob/main/media/space_invaders_gif.gif | width=300)
+![Το παιχνίδι (camera ready)](https://github.com/diogenisAl/pyGame/blob/main/media/space_invaders_gif.gif)
+
+<img src="https://github.com/diogenisAl/pyGame/blob/main/media/space_invaders_gif.gif" width="148">
 
 
 
