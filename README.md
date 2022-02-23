@@ -5,7 +5,7 @@
 Δείτε το παρακάτω παιχνίδι.
 
 
-<img src="https://github.com/diogenisAl/pyGame/blob/main/media/space_invaders_gif.gif" width="500">
+<img src="https://github.com/diogenisAl/pyGame/blob/main/media/space_invaders_gif.gif" width="700">
 
 
 
