@@ -1,9 +1,14 @@
 # pyGame
 
 ## Προθέρμανση
+
 Δείτε την παρακάτω παιχνίδι.
 
+
+
 ![Το παιχνίδι (camera ready)](https://github.com/diogenisAl/pyGame/blob/main/media/space_invaders_gif.gif)
+
+
 
 Στη συνέχεια **αναστοχαστείτε** στις εξής ερωτήσεις:
 
@@ -14,7 +19,7 @@
 
 
 
-Εμπνευσμένο από την προσέγγιση [black box](https://en.wikipedia.org/wiki/Black_box)
+Εμπνευσμένο από την προσέγγιση [black box](https://en.wikipedia.org/wiki/Black_box).
 
 ---
 
