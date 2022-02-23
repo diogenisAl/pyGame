@@ -24,5 +24,10 @@
 Μπείτε στον σύνδεσμο: [https://angry-edison-f89966.netlify.app/](https://angry-edison-f89966.netlify.app/)
 
 ---
+## Ο χάρτης του αποθετηρίου
+* Στο κλαδί (branch) [backup02](https://github.com/diogenisAl/pyGame/tree/backup02) θα βρείτε τα αρχεία για το [https://angry-edison-f89966.netlify.app/](https://angry-edison-f89966.netlify.app/)
+* Στο κλαδί [source_code](https://github.com/diogenisAl/pyGame/tree/source_code) θα βρείτε τα αρχεία με τον κώδικα του μαθήματος.
+
+---
 
 Το αποθετήριο αξιοποιεί το υλικό που έχει δημιουργηθεί από την εκπαιδευτική ομάδα του [Ιωάννη Καρύδη](https://github.com/ioanniskarydis).
