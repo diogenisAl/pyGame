@@ -19,7 +19,7 @@
 
 
 
-Εμπνευσμένο από την προσέγγιση [black box](https://en.wikipedia.org/wiki/Black_box).
+*Εμπνευσμένο από την προσέγγιση [black box](https://en.wikipedia.org/wiki/Black_box).
 
 ---
 
