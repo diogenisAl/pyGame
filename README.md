@@ -11,7 +11,7 @@
 
 ## 2. Hands on!
 
-Μπείτε στον σύνδεσμό [https://replit.com/@dioal/pyspaceinvaders?v=1](https://replit.com/@dioal/pyspaceinvaders?v=1) και παίξτε το παιχνίδι.
+Μπείτε στον σύνδεσμό **[https://replit.com/@dioal/pyspaceinvaders?v=1](https://replit.com/@dioal/pyspaceinvaders?v=1)** και παίξτε το παιχνίδι.
 
 ### Σημείωση
 Όταν ξεκινήσει το παιχνίδι, θα πρέπει να κάνετε κλικ:
