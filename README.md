@@ -49,7 +49,7 @@
 
 ## 5. Αρχική επαφή με τον κώδικα
 
-Τρέξτε/πειραματιστείτε με τον κώδικα που θα βρείτε στο αρχείο **source_code/**[main.py](https://github.com/diogenisAl/pyGame/blob/source_code/main.py)
+* Τρέξτε/πειραματιστείτε με τον κώδικα που θα βρείτε στο αρχείο **source_code/**[main.py](https://github.com/diogenisAl/pyGame/blob/source_code/main.py)
 
 
 ## Ο χάρτης του αποθετηρίου
