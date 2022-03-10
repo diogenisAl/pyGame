@@ -42,7 +42,7 @@
 
 ## 4. Επεξήγηση του κώδικα
 
-* Μπείτε στον σύνδεσμο: **[https://angry-edison-f89966.netlify.app/](https://angry-edison-f89966.netlify.app/)**.
+* Μπείτε στον σύνδεσμο: **[https://angry-edison-f89966.netlify.app/](https://angry-edison-f89966.netlify.app/)**
 * Δείτε τις παρουσιάσεις (δια ζώσης επίδειξη).
 
 ---
