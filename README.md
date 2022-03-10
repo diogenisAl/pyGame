@@ -29,7 +29,7 @@
 
 *Εμπνευσμένο από την προσέγγιση [black box](https://en.wikipedia.org/wiki/Black_box).*
 
-## 3. Αρχική γνωριμία με τον κώδικα
+## 3. Αρχική επαφή με τον κώδικα
 
 1. Τρέξτε τον κώδικα που θα βρείτε στο αρχείο **source_code/**[main00.py](https://github.com/diogenisAl/pyGame/blob/source_code/main00.py)
 2. Κάντε μικροαλλαγές:
@@ -47,6 +47,9 @@
 
 ---
 
+## 5. Αρχική επαφή με τον κώδικα
+
+Τρέξτε/πειραματιστείτε με τον κώδικα που θα βρείτε στο αρχείο **source_code/**[main.py](https://github.com/diogenisAl/pyGame/blob/source_code/main.py)
 
 
 ## Ο χάρτης του αποθετηρίου
