@@ -32,7 +32,7 @@
 
 ## 3. Αρχική γνωριμία με τον κώδικα
 
-1. Τρέξτε τον κώδικα που θα βρείτε στο αρχείο source_code/**[main00.py](https://github.com/diogenisAl/pyGame/blob/source_code/main00.py)**
+1. Τρέξτε τον κώδικα που θα βρείτε στο αρχείο **source_code/**[main00.py](https://github.com/diogenisAl/pyGame/blob/source_code/main00.py)
 2. Κάντε μικροαλλαγές:
 - [ ] αλλαγή διαστάσεων παραθύρου
 - [ ] αλλαγή caption
