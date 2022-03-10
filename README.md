@@ -32,9 +32,23 @@
 
 ## 3. Αρχική γνωριμία με τον κώδικα
 
-Μπείτε στον σύνδεσμο: **[https://angry-edison-f89966.netlify.app/](https://angry-edison-f89966.netlify.app/)**
+1. Τρέξτε τον κώδικα που θα βρείτε στο αρχείο [source_code/main00.py](https://github.com/diogenisAl/pyGame/blob/source_code/main00.py).
+2. Κάντε μικροαλλαγές:
+- [ ] αλλαγή διαστάσεων παραθύρου
+- [ ] αλλαγή caption
 
 ---
+
+
+## 4. Αρχική γνωριμία με τον κώδικα
+
+* Μπείτε στον σύνδεσμο: **[https://angry-edison-f89966.netlify.app/](https://angry-edison-f89966.netlify.app/)**.
+* Δείτε τις παρουσιάσεις (δια ζώσης επίδειξη).
+
+---
+
+
+
 ## Ο χάρτης του αποθετηρίου
 * Στο κλαδί (branch) [backup02](https://github.com/diogenisAl/pyGame/tree/backup02) θα βρείτε τα αρχεία για το [https://angry-edison-f89966.netlify.app/](https://angry-edison-f89966.netlify.app/)
 * Στο κλαδί [source_code](https://github.com/diogenisAl/pyGame/tree/source_code) θα βρείτε τα αρχεία με τον κώδικα του μαθήματος (η [online εφαρμογή](https://replit.com/@dioal/pyspaceinvaders?v=1) που είδατε παραπάνω βασίζεται στο κώδικα του αρχείου [main.py](https://github.com/diogenisAl/pyGame/blob/source_code/main.py)).
